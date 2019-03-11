@@ -1,0 +1,1 @@
+This is Mukhtartg's first git project!
